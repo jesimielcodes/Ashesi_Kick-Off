@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="center">Ashesi Kick-Off</h1>
+<h1 align="center">🏃‍♂️‍➡️⚽️Ashesi Kick-Off⚽️🏃🏾‍♂️</h1>
 
 ###
 
-<h2 align="center">Headlines (project description)</h2>
+<h2 align="center">Headlines📰 (project description)</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">XG (expected goals)</h2>
+<h2 align="center">XG🥅 (expected goals)</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">Performance Statistics (what I acheived)</h2>
+<h2 align="center">Performance Statistics 📊 (what I acheived)</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">Coaches(tools used)</h2>
+<h2 align="center">👨🏾‍🏫 Coaches (tools used)</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="center">Starting 11(java concepts utilized)</h2>
+<h2 align="center">Starting 11🏅(java concepts utilized)</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="center">Red Cards (Challenges I faced)</h2>
+<h2 align="center">Red Cards🟥 (challenges I faced)</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="center">Upcoming Fix-tures(future updates)</h2>
+<h2 align="center">Upcoming Fix-tures🛠️ (future updates)</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="center">Highlights (Demo Media)</h2>
+<h2 align="center">Highlights📺 (Demo Media)</h2>
 
 ###
 
@@ -88,6 +88,6 @@
 
 ###
 
-<h2 align="center">Full Time!!</h2>
+<h2 align="center">Full Time!!⏱️</h2>
 
 ###
