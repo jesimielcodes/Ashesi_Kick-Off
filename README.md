@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">1)Player Information<br>2)Team information (Overview, Respective Teams, Respective Players)<br>3)Dashboard<br>4)Players Overview<br>5)Leagues (Respective leagues, Respective Yearly Overview)<br>6)Announcements<br>7)Recent Matches<br>8)Upcoming matches (by league)<br>9)Player Transfer Request<br>10Match Highlights</p>
+<p align="left">1)Player Information<br>2)Team information (Overview, Respective Teams, Respective Players)<br>3)Dashboard<br>4)Players Overview<br>5)Leagues (Respective leagues, Respective Yearly Overview)<br>6)Announcements<br>7)Recent Matches<br>8)Upcoming matches (by league)<br>9)Player Transfer Request<br>10)Match Highlights</p>
 
 ###
 
