@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">🏃‍♂️‍➡️⚽️Ashesi Kick-Off⚽️🏃🏾‍♂️</h1>
+<h1 align="center">Ashesi Kick-Off</h1>
 
 ###
 
