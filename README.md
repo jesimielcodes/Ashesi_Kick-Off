@@ -1,68 +1,108 @@
-<p align="center">**Demo media at the bottom**</p>
+# Ashesi Kick-Off
 
-###
+A Java desktop application (Swing/AWT) designed to centralize football information for the Ashesi University sports community.  
+The application provides visibility into teams, players, leagues, match results, and announcements in a simple, intuitive interface.
 
-<h1 align="center">Ashesi Kick-Off</h1>
+---
 
-###
+## Overview
 
-<h2 align="center">Headlines📰 (project description)</h2>
+Ashesi Kick-Off was developed to:
 
-###
+- Improve student engagement with campus sports activities.
+- Provide a single source of truth for teams, players, statistics, and fixtures.
+- Demonstrate core desktop application concepts in Java using Swing and AWT.
 
-<p align="left">A functional desktop application designed to enhance the engagement of students with Ashesi's football club competitions. KickOff aims to provide a centralized platform where users can easily access football updates, in-depth statistics, and essential information about their favorite teams and players, fostering a stronger connection to the sports they love.</p>
+All data in this version is stored locally (CSV files). Networking and backend integrations were intentionally out of scope at the time of development.
 
-###
+---
 
-<h2 align="center">XG🥅 (expected goals)</h2>
+## Core Features
 
-###
+**Home / Intro**
+- Branded welcome screen with rotating images and navigation entry points.
 
-<p align="left">-Create a user-friendly interface for students.<br>-Provide up-to-date information on football activities, teams, players, and stats.<br>-Simplify the management of football teams, players, and match-related statistics</p>
+**Teams**
+- List of all teams with team pages.
+- Team photos, descriptions, and rosters.
+- Player cards linking to detailed player views.
 
-###
+**Players**
+- Full player directory with attributes such as team, ranking, nickname, height, and basic statistics.
 
-<h2 align="center">Performance Statistics 📊 (what I acheived)</h2>
+**Leagues**
+- League list with bracket-style standings.
+- Historical winners by year.
 
-###
+**Matches**
+- Recent match results.
+- Upcoming fixtures by league.
 
-<p align="left">1)Player Information<br>2)Team information (Overview, Respective Teams, Respective Players)<br>3)Dashboard<br>4)Players Overview<br>5)Leagues (Respective leagues, Respective Yearly Overview)<br>6)Announcements<br>7)Recent Matches<br>8)Upcoming matches (by league)<br>9)Player Transfer Request<br>10)Match Highlights</p>
+**Announcements**
+- Central board for community updates and notifications.
 
-###
+**Player Transfer Request (Prototype)**
+- Submission form for requesting team transfers.  
+  *(UI only — backend processing not implemented.)*
 
-<h2 align="center">👨🏾‍🏫 Coaches (tools used)</h2>
+---
 
-###
+## Technology Stack
 
-<p align="left">Java Syntax<br>Java Swing Library<br>Java AWT library</p>
+- **Language:** Java
+- **UI:** Swing, AWT
+- **Data Storage:** CSV files (local)
+- **Paradigms & Concepts:**  
+  Polymorphism, inheritance, collections, file I/O, exception handling, class hierarchy, iteration, basic data structures, and lambdas.
 
-###
+---
 
-<h2 align="center">Starting 11🏅(java concepts utilized)</h2>
+## Architecture Highlights
 
-###
+- Modular separation between UI components and data models.
+- Reusable panels for team, league, and player views.
+- CSV-based data loaders for simple persistence during development.
 
-<p align="left">1) Polymorphism<br>2) Inheritance<br>3) Iteration<br>4) Class hierarchy<br>5) Encapsulation<br>6) Collections<br>7) Lambda expressions<br>8) Data Structures (List, Array)<br>10) File I/O<br>11) Exceptions</p>
+---
 
-###
+## Known Limitations
 
-<h2 align="center">Red Cards🟥 (challenges I faced)</h2>
+- Not connected to the internet or any backend services.
+- Data is static and must be updated manually.
+- Limited responsiveness on window resize.
+- Transfer request feature is UI-only.
 
-###
+---
 
-<p align="left">Issues with running in terminal</p>
+## Roadmap / Future Improvements
 
-###
+- Replace CSV with a relational database.
+- Introduce REST APIs for live data.
+- Improve UI responsiveness and transitions.
+- Add analytics and visualization (e.g., charts and dashboards).
+- Redesign UI for accessibility and consistency.
 
-<h2 align="center">Upcoming Fix-tures🛠️ (future updates)</h2>
+---
 
-###
+## Running the Application
 
-<p align="left">-Making the GUI more responsive (window resizing, picture transition, etc).<br>-Using a database instead of a CSV file<br>-Integration with External APIs such as Openfootball and Google Charts for statistical visualization and team analysis<br>-Redesigning interface</p>
+1. Clone the repository.
+2. Open the project in your preferred Java IDE.
+3. Ensure Java (JDK 8+) is installed.
+4. Run the main application class.
 
-###
+> Note: Ensure CSV files remain in the expected directory structure.
 
-<h2 align="center">Highlights📺 (Demo Media)</h2>
+---
+
+## Demo
+
+Screenshots and demo media are included below.
+
+---
+
+Thank you for reviewing Ashesi Kick-Off. Feedback is welcome.
+
 
 ###
 
@@ -72,6 +112,8 @@
 
 ![Screenshot 2024-12-19 100209](https://github.com/user-attachments/assets/99a3b485-9fd4-4b44-aa66-b76fd7102e19)
 
+![Screenshot 2024-12-19 100239](https://github.com/user-attachments/assets/01c6c993-6486-4dfd-925f-ed02791e9444)
+
 ![Screenshot 2024-12-19 100116](https://github.com/user-attachments/assets/c6912ae3-4456-4685-a383-138382821066)
 
 ![Screenshot 2024-12-19 100942](https://github.com/user-attachments/assets/7ea92d40-0056-463e-945b-231f0b1a286f)
@@ -79,8 +121,6 @@
 ![Screenshot 2024-12-19 100334](https://github.com/user-attachments/assets/72a93697-1aa6-4405-b16d-b7ae2984a226)
 
 ![Screenshot 2024-12-19 100315](https://github.com/user-attachments/assets/9ed940a5-bcc1-4c0d-9362-0fc843ec80de)
-
-![Screenshot 2024-12-19 100239](https://github.com/user-attachments/assets/01c6c993-6486-4dfd-925f-ed02791e9444)
 
 ![Screenshot 2024-12-19 101606](https://github.com/user-attachments/assets/9e9a1ed6-e976-479f-912f-b5978e6f75e2)
 
