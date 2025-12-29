@@ -5,8 +5,11 @@ The application provides visibility into teams, players, leagues, match results,
 
 ---
 ![Demo Video](KickOff-demogif.gif)
+
 ---
 Note: more demo media at the bottom
+
+---
 
 ## Overview
 
