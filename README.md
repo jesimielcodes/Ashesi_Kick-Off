@@ -4,6 +4,9 @@ A Java desktop application (Swing/AWT) designed to centralize football informati
 The application provides visibility into teams, players, leagues, match results, and announcements in a simple, intuitive interface.
 
 ---
+![Demo Video](KickOff-demogif.gif)
+---
+Note: more demo media at the bottom
 
 ## Overview
 
